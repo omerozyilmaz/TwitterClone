@@ -1,24 +1,19 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
-
+import Tweet from "../components/Tweet";
 export default function Home() {
-  const navigate = useNavigate();
-
+  const sampleTweet = {
+    user: {
+      name: "John Doe",
+      handle: "johndoe",
+      profileImage: "https://via.placeholder.com/48",
+    },
+    content: "This is a sample tweet to demonstrate the tweet container.",
+    date: "2h ago",
+  };
   return (
     <div>
       <h2>Home</h2>
-      <p>Welcome to the Home page.</p>
-      <div>
-        <button onClick={() => navigate("/messages")}>Go to Messages</button>
-      </div>
-      <div>
-        <button onClick={() => navigate("/notifications")}>
-          Go to Notifications
-        </button>
-      </div>
-      <div>
-        <button onClick={() => navigate("/profile")}>Go to Profile</button>
-      </div>
+      <Tweet tweet={sampleTweet} />
     </div>
   );
 }

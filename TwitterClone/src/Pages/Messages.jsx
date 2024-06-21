@@ -7,9 +7,6 @@ export default function Messages() {
         <h1>Messages</h1>
         <p>Here are your messages.</p>
       </div>
-      <div>
-        <button onClick={() => navigate("/")}>Go to Home</button>
-      </div>
     </div>
   );
 }

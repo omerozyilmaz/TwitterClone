@@ -1,5 +1,17 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faXTwitter } from "@fortawesome/free-brands-svg-icons"; // İkonu buraya ekleyin
+import {
+  faEnvelope,
+  faUser,
+  faBell,
+} from "@fortawesome/free-regular-svg-icons";
+import {
+  faHouse,
+  faMagnifyingGlass,
+  faUsers,
+} from "@fortawesome/free-solid-svg-icons";
 import "./Sidebar.css";
 
 const Sidebar = () => {
@@ -8,37 +20,55 @@ const Sidebar = () => {
       <nav>
         <ul>
           <li>
-            <NavLink to="/" exact activeClassName="active">
+            <FontAwesomeIcon
+              icon={faXTwitter}
+              style={{ color: "#ffffff" }}
+              size="2x"
+            />
+          </li>
+          <li>
+            <NavLink to="/" exact="true">
+              <FontAwesomeIcon icon={faHouse} className="fifteenPxPadding" />
               Anasayfa
             </NavLink>
           </li>
           <li>
-            <NavLink to="explore" activeClassName="active">
+            <NavLink to="explore">
+              <FontAwesomeIcon
+                icon={faMagnifyingGlass}
+                className="fifteenPxPadding"
+              />
               Keşfet
             </NavLink>
           </li>
           <li>
-            <NavLink to="notifications" activeClassName="active">
+            <NavLink to="notifications">
+              <FontAwesomeIcon icon={faBell} className="fifteenPxPadding" />
               Bildirimler
             </NavLink>
           </li>
           <li>
-            <NavLink to="messages" activeClassName="active">
+            <NavLink to="messages">
+              <FontAwesomeIcon icon={faEnvelope} className="fifteenPxPadding" />
               Mesajlar
             </NavLink>
           </li>
           <li>
-            <NavLink to="communities" activeClassName="active">
+            <NavLink to="communities">
+              <FontAwesomeIcon icon={faUsers} className="tenPxPadding" />
               Topluluklar
             </NavLink>
           </li>
           <li>
-            <NavLink to="premium" activeClassName="active">
+            <NavLink to="premium">
+              {" "}
+              <FontAwesomeIcon icon={faXTwitter} className="fifteenPxPadding" />
               Premium
             </NavLink>
           </li>
           <li>
-            <NavLink to="profile" activeClassName="active">
+            <NavLink to="profile">
+              <FontAwesomeIcon icon={faUser} className="fifteenPxPadding" />
               Profil
             </NavLink>
           </li>

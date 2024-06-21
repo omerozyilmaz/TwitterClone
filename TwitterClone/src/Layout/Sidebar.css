@@ -4,7 +4,8 @@
   position: fixed;
   left: 0;
   top: 0;
-  background-color: #1a1a1a;
+  background-color: black;
+  border-right: 0.5px solid grey;
   color: white;
   padding-top: 20px;
 }
@@ -21,6 +22,15 @@
 .sidebar nav ul li a {
   text-decoration: none;
   color: white;
+  display: flex;
+  align-items: center;
+}
+
+.fifteenPxPadding {
+  padding-right: 15px;
+}
+.tenPxPadding {
+  padding-right: 10px;
 }
 
 .sidebar nav ul li a.active {
