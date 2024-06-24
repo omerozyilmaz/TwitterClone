@@ -7,3 +7,61 @@
   padding: 20px;
   flex-grow: 1;
 }
+/* index.css or App.css */
+/* index.css veya App.css */
+
+.App {
+  text-align: center;
+}
+
+.tweet-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tweet {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  width: 600px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: black;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.user-details {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.user-details img {
+  border-radius: 50%;
+  margin-right: 10px;
+  width: 48px;
+  height: 48px;
+}
+
+.user-details h2 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.user-details p {
+  margin: 0;
+  color: #555;
+}
+
+.tweet p {
+  margin: 10px 0;
+}
+
+.tweet img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-top: 10px;
+}
