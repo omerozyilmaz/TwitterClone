@@ -32,7 +32,7 @@ export const fetchTweets = () => {
         },
         headers: {
           "x-rapidapi-key":
-            "f9ce061a33msh30fade5f94282e5p1a95c1jsn04935aa0af20",
+            "f9ce061a33msh30fade5f94282e5p1a95c1jsn04935aa0af20zz",
           "x-rapidapi-host": "twitter135.p.rapidapi.com",
         },
       };
