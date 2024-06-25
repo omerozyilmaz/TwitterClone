@@ -3,7 +3,7 @@
 }
 
 .content {
-  margin-left: 250px;
+  margin-left: 480px;
   padding: 20px;
   flex-grow: 1;
 }
@@ -21,15 +21,15 @@
 }
 
 .tweet {
-  border: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   padding: 10px;
-  margin: 10px;
   width: 600px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  background-color: black;
   border-radius: 8px;
   display: flex;
   flex-direction: column;
+  font-weight: 600;
 }
 
 .user-details {
@@ -37,12 +37,16 @@
   align-items: center;
   margin-bottom: 10px;
 }
-
+.user-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
 .user-details img {
   border-radius: 50%;
   margin-right: 10px;
   width: 48px;
-  height: 48px;
+  height: auto;
 }
 
 .user-details h2 {
@@ -57,11 +61,16 @@
 }
 
 .tweet p {
-  margin: 10px 0;
 }
 
 .tweet img {
   max-width: 100%;
   border-radius: 8px;
   margin-top: 10px;
+}
+.padding55px {
+  padding-left: 55px;
+}
+.blackbg {
+  background-color: black;
 }

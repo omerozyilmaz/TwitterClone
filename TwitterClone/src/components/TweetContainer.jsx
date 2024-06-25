@@ -1,7 +1,7 @@
 import React from "react";
 import Tweet from "./Tweet";
 
-const TweetContainer = ({ tweets }) => {
+export default function TweetContainer({ tweets }) {
   return (
     <div className="tweet-container">
       {tweets.map((tweet) => {
@@ -12,6 +12,4 @@ const TweetContainer = ({ tweets }) => {
       })}
     </div>
   );
-};
-
-export default TweetContainer;
+}

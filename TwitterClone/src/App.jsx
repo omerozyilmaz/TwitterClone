@@ -7,10 +7,12 @@ import ProfilePage from "./Pages/ProfilePage";
 import Explore from "./Pages/Explore";
 import Communities from "./Pages/Communities";
 import Premium from "./Pages/Premium";
+import TweetDetail from "./Pages/TweetDetail";
+
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Provider } from "react-redux";
-import store from "./store"; // Store dosyanızın doğru yolu olduğundan emin olun
+import store from "./store";
 
 function App() {
   return (
@@ -21,6 +23,7 @@ function App() {
           <div className="content">
             <Routes>
               <Route path="/" element={<Home />} />
+              <Route path="/tweet/:id" element={<TweetDetail />} />
               <Route path="/messages" element={<Messages />} />
               <Route path="/notifications" element={<Notifications />} />
               <Route path="/profile" element={<ProfilePage />} />

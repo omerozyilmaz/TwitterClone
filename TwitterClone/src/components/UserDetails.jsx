@@ -1,6 +1,7 @@
 import React from "react";
 
-const UserDetails = ({ user }) => {
+const UserDetails = (props) => {
+  const { user, timeAgo } = props;
   return (
     <div className="user-details">
       <img
@@ -10,7 +11,9 @@ const UserDetails = ({ user }) => {
       />
       <div>
         <h2>{user.legacy.name}</h2>
-        <p>@{user.legacy.screen_name}</p>
+        <p className="user-info">
+          @{user.legacy.screen_name} · {timeAgo}
+        </p>
       </div>
     </div>
   );
