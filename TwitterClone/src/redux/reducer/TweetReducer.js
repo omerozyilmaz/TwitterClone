@@ -2,14 +2,12 @@ import {
   FETCH_TWEETS_REQUEST,
   FETCH_TWEETS_SUCCESS,
   FETCH_TWEETS_FAILURE,
-  SELECT_TWEET,
 } from "../types";
 
 const initialState = {
+  loading: false,
   tweets: [],
-  status: "idle",
-  error: null,
-  selectedTweet: null,
+  error: "",
 };
 
 const tweetReducer = (state = initialState, action) => {
@@ -17,24 +15,20 @@ const tweetReducer = (state = initialState, action) => {
     case FETCH_TWEETS_REQUEST:
       return {
         ...state,
-        status: "loading",
+        loading: true,
       };
     case FETCH_TWEETS_SUCCESS:
       return {
         ...state,
-        status: "succeeded",
+        loading: false,
         tweets: action.payload,
+        error: "",
       };
     case FETCH_TWEETS_FAILURE:
       return {
         ...state,
-        status: "failed",
+        loading: false,
         error: action.payload,
-      };
-    case SELECT_TWEET:
-      return {
-        ...state,
-        selectedTweet: action.payload,
       };
     default:
       return state;

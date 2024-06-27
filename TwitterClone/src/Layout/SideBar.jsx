@@ -12,9 +12,8 @@ import {
   faMagnifyingGlass,
   faUsers,
 } from "@fortawesome/free-solid-svg-icons";
-import "./Sidebar.css";
 
-const Sidebar = () => {
+export default function Sidebar() {
   return (
     <div className="sidebar">
       <nav>
@@ -76,6 +75,4 @@ const Sidebar = () => {
       </nav>
     </div>
   );
-};
-
-export default Sidebar;
+}

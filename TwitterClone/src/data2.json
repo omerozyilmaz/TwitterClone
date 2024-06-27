@@ -1,0 +1,1603 @@
+{
+  "globalObjects": {
+    "tweets": {},
+    "users": {
+      "1646521715051368452": {
+        "id": 1646521715051368452,
+        "id_str": "1646521715051368452",
+        "name": "American Values 🗽",
+        "screen_name": "AV24org",
+        "location": "United States",
+        "description": "Empowering Independent thinkers to transcend partisanship, challenge ideological conformity, root out corruption, and unite in a movement toward genuine reform.",
+        "url": "https://t.co/oVFyKT1raF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/oVFyKT1raF",
+                "expanded_url": "https://av24.org",
+                "display_url": "av24.org",
+                "indices": [0, 23]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 14003,
+        "fast_followers_count": 0,
+        "normal_followers_count": 14003,
+        "friends_count": 196,
+        "listed_count": 79,
+        "created_at": "Thu Apr 13 14:33:16 +0000 2023",
+        "favourites_count": 5665,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2825,
+        "media_count": 1542,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1782956108652400640/k8CAXsd3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1782956108652400640/k8CAXsd3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646521715051368452/1713882445",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [1804169853164753278],
+        "pinned_tweet_ids_str": ["1804169853164753278"],
+        "has_custom_timelines": false,
+        "can_dm": null,
+        "can_media_tag": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "muting": false,
+        "blocking": false,
+        "blocked_by": false,
+        "want_retweets": false,
+        "advertiser_account_type": "none",
+        "advertiser_account_service_levels": [],
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "followed_by": false,
+        "ext_verified_type": "Business",
+        "ext_profile_image_shape": "Square",
+        "ext_has_nft_avatar": false,
+        "ext_is_blue_verified": true,
+        "ext": {
+          "highlightedLabel": {
+            "r": {
+              "ok": {}
+            },
+            "ttl": -1
+          },
+          "hasNftAvatar": {
+            "r": {
+              "ok": false
+            },
+            "ttl": -1
+          }
+        },
+        "require_some_consent": false
+      }
+    },
+    "moments": {},
+    "cards": {},
+    "places": {},
+    "media": {},
+    "broadcasts": {},
+    "topics": {},
+    "lists": {}
+  },
+  "timeline": {
+    "id": "guide-trends-candidate-page-532-1806447240936554496",
+    "instructions": [
+      {
+        "clearCache": {}
+      },
+      {
+        "addEntries": {
+          "entries": [
+            {
+              "entryId": "cursor:2",
+              "sortIndex": "3",
+              "content": {
+                "operation": {
+                  "cursor": {
+                    "value": "DefaultTopCursorValue",
+                    "cursorType": "Top"
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "trends",
+              "sortIndex": "2",
+              "content": {
+                "timelineModule": {
+                  "items": [
+                    {
+                      "entryId": "trends-Texas+Chick-fil-A",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Texas Chick-fil-A",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%22Texas+Chick-fil-A%22&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgRVGV4YXMgQ2hpY2stZmlsLUEYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "2,665 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%22Texas+Chick-fil-A%22&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgRVGV4YXMgQ2hpY2stZmlsLUEYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Food · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMAAAsABAAAABFUZXhhcyBDaGljay1maWwtQQ8ACQoAAAAEC3MogTPVUAATb4v2RxRgCBSr5IYpVFAFC8Q48YjU0AIKAAoLcyiBM9VQAA8ADAoAAAAAAgANAAA=",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 0,
+                                  "trendName": "Texas Chick-fil-A",
+                                  "topicIds": [
+                                    "825047692124442624",
+                                    "1400491899006246920",
+                                    "1489535366646222853",
+                                    "847865239886417922"
+                                  ],
+                                  "displayedTopicId": "825047692124442624",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAARVGV4YXMgQ2hpY2stZmlsLUEKAAOWaDzJEmdB0QYABAAADwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-%23TheRealDebate",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "#TheRealDebate",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%23TheRealDebate&src=promoted_trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgOI1RoZVJlYWxEZWJhdGUAAA=="
+                                }
+                              }
+                            },
+                            "promotedMetadata": {
+                              "advertiserId": "1646521715051368452",
+                              "disclosureType": "NoDisclosure",
+                              "promotedTrendId": "102155",
+                              "promotedTrendName": "#TheRealDebate",
+                              "promotedTrendQueryTerm": "#TheRealDebate",
+                              "impressionString": "2dda0bc783682c3a"
+                            },
+                            "description": "CNN Can't Stop Free Speech",
+                            "metaDescription": "Promoted by American Values 🗽",
+                            "trendMetadata": {
+                              "metaDescription": "Promoted by American Values 🗽"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "promoted_trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAYAAwABCwAEAAAADiNUaGVSZWFsRGViYXRlAgANAAA=",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "position": 1,
+                                  "trendName": "#TheRealDebate",
+                                  "containsCuratedTitle": false,
+                                  "promotedTrendId": "102155",
+                                  "promotedImpressionId": "2dda0bc783682c3a",
+                                  "promotedDisclosureType": "NoDisclosure"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Caseoh",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Caseoh",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=Caseoh&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgGQ2FzZW9oGCRkNTAwZDYwZi03YzNhLTQyZmUtYjZjOC1kYjdiOTYxNjMxMTAAAA=="
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "2,020 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=Caseoh&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgGQ2FzZW9oGCRkNTAwZDYwZi03YzNhLTQyZmUtYjZjOC1kYjdiOTYxNjMxMTAAAA=="
+                                  }
+                                }
+                              },
+                              "domainContext": "Trending in United States"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMAAgsABAAAAAZDYXNlb2gPAAwKAAAAAAIADQAA",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 2,
+                                  "trendName": "Caseoh",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAGQ2FzZW9oCgADlmg8yRJnQdEGAAQAAg8ABQsAAAAACAAGAAAAAwA=",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-DirecTV",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "DirecTV",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=DirecTV&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgHRGlyZWNUVhgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "3,706 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=DirecTV&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgHRGlyZWNUVhgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                  }
+                                }
+                              },
+                              "domainContext": "Sports · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMAAwsABAAAAAdEaXJlY1RWDwAJCgAAAAELxFkBqNVgAQoACgvEWQGo1WABDwAMCgAAAAACAA0AAA==",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 3,
+                                  "trendName": "DirecTV",
+                                  "topicIds": ["847900493514891265"],
+                                  "displayedTopicId": "847900493514891265",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAHRGlyZWNUVgoAA5ZoPMkSZ0HRBgAEAAMPAAULAAAAAAgABgAAAAMA",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-I+LOVE+PALESTINE",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "I LOVE PALESTINE",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%22I+LOVE+PALESTINE%22&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgQSSBMT1ZFIFBBTEVTVElORRgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "5,084 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%22I+LOVE+PALESTINE%22&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgQSSBMT1ZFIFBBTEVTVElORRgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                  }
+                                }
+                              },
+                              "domainContext": "Trending in United States"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMABAsABAAAABBJIExPVkUgUEFMRVNUSU5FDwAMCgAAAAACAA0AAA==",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 4,
+                                  "trendName": "I LOVE PALESTINE",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAQSSBMT1ZFIFBBTEVTVElORQoAA5ZoPMkSZ0HRBgAEAAQPAAULAAAAAAgABgAAAAMA",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-%23Biden2024",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "#Biden2024",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%23Biden2024&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgKI0JpZGVuMjAyNBgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "2,647 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%23Biden2024&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgKI0JpZGVuMjAyNBgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                  }
+                                }
+                              },
+                              "domainContext": "Politics · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADQ6dGFpbG9yZWRfcmVxdWVzdDpoYXNodGFnX3RyZW5kOnRheGlfY291bnRyeV9zb3VyY2U6BgADAAULAAQAAAAKI0JpZGVuMjAyNA8ACQoAAAABC8RFWoQVwAEKAAoLxEVahBXAAQ8ADAoAAAAAAgANAAA=",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:hashtag_trend:taxi_country_source:",
+                                  "position": 5,
+                                  "trendName": "#Biden2024",
+                                  "topicIds": ["847878884917886977"],
+                                  "displayedTopicId": "847878884917886977",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAKI0JpZGVuMjAyNAoAA5ZoPMkSZ0HRBgAEAAUPAAULAAAAAAgABgAAAAMA",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Antonio+Reeves",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Antonio Reeves",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%22Antonio+Reeves%22&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgOQW50b25pbyBSZWV2ZXMYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "1,435 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%22Antonio+Reeves%22&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgOQW50b25pbyBSZWV2ZXMYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Sports · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMABgsABAAAAA5BbnRvbmlvIFJlZXZlcw8ACQoAAAABC8RZAajVYAEKAAoLxFkBqNVgAQ8ADAoAAAAAAgANAAA=",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 6,
+                                  "trendName": "Antonio Reeves",
+                                  "topicIds": ["847900493514891265"],
+                                  "displayedTopicId": "847900493514891265",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAOQW50b25pbyBSZWV2ZXMKAAOWaDzJEmdB0QYABAAGDwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Walgreens",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Walgreens",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=Walgreens&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgJV2FsZ3JlZW5zGCRkNTAwZDYwZi03YzNhLTQyZmUtYjZjOC1kYjdiOTYxNjMxMTAAAA=="
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "12.1K posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=Walgreens&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgJV2FsZ3JlZW5zGCRkNTAwZDYwZi03YzNhLTQyZmUtYjZjOC1kYjdiOTYxNjMxMTAAAA=="
+                                  }
+                                }
+                              },
+                              "domainContext": "Business and finance · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMABwsABAAAAAlXYWxncmVlbnMPAAkKAAAAAQraIcCK1BABCgAKCtohwIrUEAEPAAwKAAAAAAIADQAA",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 7,
+                                  "trendName": "Walgreens",
+                                  "topicIds": ["781974596148793345"],
+                                  "displayedTopicId": "781974596148793345",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAJV2FsZ3JlZW5zCgADlmg8yRJnQdEGAAQABw8ABQsAAAAACAAGAAAAAwA=",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Oklahoma",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Oklahoma",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=Oklahoma&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgIT2tsYWhvbWEYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=Oklahoma&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgIT2tsYWhvbWEYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Trending in United States"
+                            },
+                            "groupedTrends": [
+                              {
+                                "name": "Ryan Walters",
+                                "url": {
+                                  "urlType": "DeepLink",
+                                  "url": "twitter://search/?query=Ryan+Walters&src=trend_click&pc=true&vertical=trends",
+                                  "urtEndpointOptions": {
+                                    "requestParams": {
+                                      "cd": "HBgMUnlhbiBXYWx0ZXJzGCRkNTAwZDYwZi03YzNhLTQyZmUtYjZjOC1kYjdiOTYxNjMxMTAAAA=="
+                                    }
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMACAsABAAAAAhPa2xhaG9tYQ8ABQsAAAACAAAADHJ5YW4gd2FsdGVycwAAAAd3YWx0ZXJzCgAHGRHAclxWUAYPAAwKAAAAAAIADQAPAA4LAAAAAQAAAAxSeWFuIFdhbHRlcnMA",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 8,
+                                  "trendName": "Oklahoma",
+                                  "relatedTerms": ["ryan walters", "walters"],
+                                  "clusterId": "1806436522960244742",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false,
+                                  "displayedRelatedVariants": ["Ryan Walters"]
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAIT2tsYWhvbWEKAAOWaDzJEmdB0QYABAAIDwAFCwAAAAIAAAAMcnlhbiB3YWx0ZXJzAAAAB3dhbHRlcnMIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Justin+Edwards",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Justin Edwards",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%22Justin+Edwards%22&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgOSnVzdGluIEVkd2FyZHMYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%22Justin+Edwards%22&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgOSnVzdGluIEVkd2FyZHMYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Sports · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMACQsABAAAAA5KdXN0aW4gRWR3YXJkcw8ACQoAAAADC8RZAajVYAEJzIOReNUgAAnMg450lJABCgAKC8RZAajVYAEPAAwKAAAAAAIADQAA",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 9,
+                                  "trendName": "Justin Edwards",
+                                  "topicIds": [
+                                    "847900493514891265",
+                                    "706083902411055104",
+                                    "706083889454813185"
+                                  ],
+                                  "displayedTopicId": "847900493514891265",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAOSnVzdGluIEVkd2FyZHMKAAOWaDzJEmdB0QYABAAJDwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Chewy",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Chewy",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=Chewy&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgFQ2hld3kYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "6,497 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=Chewy&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgFQ2hld3kYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Trending in United States"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMACgsABAAAAAVDaGV3eQ8ADAoAAAAAAgANAAA=",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 10,
+                                  "trendName": "Chewy",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAFQ2hld3kKAAOWaDzJEmdB0QYABAAKDwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Adderall",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Adderall",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=Adderall&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgIQWRkZXJhbGwYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "20.7K posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=Adderall&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgIQWRkZXJhbGwYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Politics · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMACwsABAAAAAhBZGRlcmFsbA8ACQoAAAACC8RFWoQVwAEO2YUezlWwAAoACgvERVqEFcABDwAMCgAAAAACAA0AAA==",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 11,
+                                  "trendName": "Adderall",
+                                  "topicIds": [
+                                    "847878884917886977",
+                                    "1070032753834438656"
+                                  ],
+                                  "displayedTopicId": "847878884917886977",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAIQWRkZXJhbGwKAAOWaDzJEmdB0QYABAALDwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Mr.+Bean",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Mr. Bean",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%22Mr.+Bean%22&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgITXIuIEJlYW4YJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "4,598 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%22Mr.+Bean%22&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgITXIuIEJlYW4YJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Entertainment · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMADAsABAAAAAhNci4gQmVhbg8ACQoAAAADC6apEctU4AAPM3kVmNRwAQ6t5N4O1NABCgAKC6apEctU4AAPAAwKAAAAAAIADQAA",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 12,
+                                  "trendName": "Mr. Bean",
+                                  "topicIds": [
+                                    "839544274442051584",
+                                    "1095352268046495745",
+                                    "1057753129884635137"
+                                  ],
+                                  "displayedTopicId": "839544274442051584",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAITXIuIEJlYW4KAAOWaDzJEmdB0QYABAAMDwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-ross+lynch",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "ross lynch",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%22ross+lynch%22&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgKcm9zcyBseW5jaBgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "3,774 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%22ross+lynch%22&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgKcm9zcyBseW5jaBgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                  }
+                                }
+                              },
+                              "domainContext": "Trending in United States"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMADQsABAAAAApyb3NzIGx5bmNoCgAHGRG9osvWMAUPAAwKAAAAAAIADQAA",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 13,
+                                  "trendName": "ross lynch",
+                                  "clusterId": "1806433432454443013",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAKcm9zcyBseW5jaAoAA5ZoPMkSZ0HRBgAEAA0PAAULAAAAAAgABgAAAAMA",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Tyler+Kolek",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Tyler Kolek",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%22Tyler+Kolek%22&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgLVHlsZXIgS29sZWsYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "7,759 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%22Tyler+Kolek%22&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgLVHlsZXIgS29sZWsYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Sports · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMADgsABAAAAAtUeWxlciBLb2xlaw8ABQsAAAABAAAABWtvbGVrCgAHGRHEbpeWAAEPAAkKAAAAAwvEWQGo1WABCcyDkXjVIAAJzIOOdJSQAQoACgvEWQGo1WABDwAMCgAAAAACAA0AAA==",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 14,
+                                  "trendName": "Tyler Kolek",
+                                  "relatedTerms": ["kolek"],
+                                  "clusterId": "1806440904820916225",
+                                  "topicIds": [
+                                    "847900493514891265",
+                                    "706083902411055104",
+                                    "706083889454813185"
+                                  ],
+                                  "displayedTopicId": "847900493514891265",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAALVHlsZXIgS29sZWsKAAOWaDzJEmdB0QYABAAODwAFCwAAAAEAAAAFa29sZWsIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Pepper+Jack",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Pepper Jack",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%22Pepper+Jack%22&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgLUGVwcGVyIEphY2sYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "2,365 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%22Pepper+Jack%22&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgLUGVwcGVyIEphY2sYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Entertainment industry · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMADwsABAAAAAtQZXBwZXIgSmFjaw8ACQoAAAACC8Q8IarUQAARvGzeCFRgAQoACgvEPCGq1EAADwAMCgAAAAACAA0AAA==",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 15,
+                                  "trendName": "Pepper Jack",
+                                  "topicIds": [
+                                    "847868745150119936",
+                                    "1278016095144665089"
+                                  ],
+                                  "displayedTopicId": "847868745150119936",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAALUGVwcGVyIEphY2sKAAOWaDzJEmdB0QYABAAPDwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Mordecai",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Mordecai",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=Mordecai&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgITW9yZGVjYWkYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "1,829 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=Mordecai&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgITW9yZGVjYWkYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Trending in United States"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMAEAsABAAAAAhNb3JkZWNhaQ8ADAoAAAAAAgANAAA=",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 16,
+                                  "trendName": "Mordecai",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAITW9yZGVjYWkKAAOWaDzJEmdB0QYABAAQDwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Robby",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Robby",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=Robby&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgFUm9iYnkYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "metaDescription": "4,599 posts",
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=Robby&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgFUm9iYnkYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Trending in United States"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMAEQsABAAAAAVSb2JieQ8ADAoAAAAAAgANAAA=",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 17,
+                                  "trendName": "Robby",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAFUm9iYnkKAAOWaDzJEmdB0QYABAARDwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Eli+Manning",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Eli Manning",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=%22Eli+Manning%22&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgLRWxpIE1hbm5pbmcYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=%22Eli+Manning%22&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgLRWxpIE1hbm5pbmcYJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAAA"
+                                  }
+                                }
+                              },
+                              "domainContext": "Sports · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMAEgsABAAAAAtFbGkgTWFubmluZw8ACQoAAAABC8RZAajVYAEKAAoLxFkBqNVgAQ8ADAoAAAAAAgANAAA=",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 18,
+                                  "trendName": "Eli Manning",
+                                  "topicIds": ["847900493514891265"],
+                                  "displayedTopicId": "847900493514891265",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAALRWxpIE1hbm5pbmcKAAOWaDzJEmdB0QYABAASDwAFCwAAAAAIAAYAAAADAA==",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "entryId": "trends-Kayfabe",
+                      "item": {
+                        "content": {
+                          "trend": {
+                            "name": "Kayfabe",
+                            "url": {
+                              "urlType": "DeepLink",
+                              "url": "twitter://search/?query=Kayfabe&src=trend_click&pc=true&vertical=trends",
+                              "urtEndpointOptions": {
+                                "requestParams": {
+                                  "cd": "HBgHS2F5ZmFiZRgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                }
+                              }
+                            },
+                            "trendMetadata": {
+                              "url": {
+                                "urlType": "DeepLink",
+                                "url": "twitter://search/?query=Kayfabe&src=trend_click&pc=true&vertical=trends",
+                                "urtEndpointOptions": {
+                                  "requestParams": {
+                                    "cd": "HBgHS2F5ZmFiZRgkZDUwMGQ2MGYtN2MzYS00MmZlLWI2YzgtZGI3Yjk2MTYzMTEwAAA="
+                                  }
+                                }
+                              },
+                              "domainContext": "Business and finance · Trending"
+                            }
+                          }
+                        },
+                        "clientEventInfo": {
+                          "component": "trends",
+                          "element": "trend",
+                          "details": {
+                            "guideDetails": {
+                              "identifier": "DAABDAABCwABAAAADXRyZW5kc19tb2R1bGULAAIAAAAGdHJlbmRzAAAPAAIMAAAAAQwAAQsAAQAAAA10cmVuZHNfbW9kdWxlCwACAAAABnRyZW5kcwAAAA==",
+                              "token": "CwABAAAAJGQ1MDBkNjBmLTdjM2EtNDJmZS1iNmM4LWRiN2I5NjE2MzExMAsAAgAAADM6dGFpbG9yZWRfcmVxdWVzdDplbnRpdHlfdHJlbmQ6dGF4aV9jb3VudHJ5X3NvdXJjZToGAAMAEwsABAAAAAdLYXlmYWJlDwAJCgAAAAEK2iHAitQQAQoACgraIcCK1BABDwAMCgAAAAACAA0AAA==",
+                              "transparentGuideDetails": {
+                                "trendMetadata": {
+                                  "impressionId": "d500d60f-7c3a-42fe-b6c8-db7b96163110",
+                                  "impressionToken": ":tailored_request:entity_trend:taxi_country_source:",
+                                  "position": 19,
+                                  "trendName": "Kayfabe",
+                                  "topicIds": ["781974596148793345"],
+                                  "displayedTopicId": "781974596148793345",
+                                  "associatedCuratedTweetIds": [],
+                                  "containsCuratedTitle": false
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "feedbackInfo": {
+                          "feedbackKeys": [
+                            "trend_not_interested_in_this_feedback_key",
+                            "trend_abusive_or_harmful_feedback_key"
+                          ],
+                          "feedbackMetadata": "DwABCwAAAAEAAAAHS2F5ZmFiZQoAA5ZoPMkSZ0HRBgAEABMPAAULAAAAAAgABgAAAAMA",
+                          "clientEventInfo": {
+                            "component": "trends",
+                            "element": "feedback",
+                            "action": "click"
+                          }
+                        }
+                      }
+                    }
+                  ],
+                  "displayType": "Vertical",
+                  "clientEventInfo": {
+                    "component": "trends",
+                    "details": {
+                      "guideDetails": {
+                        "identifier": "DAABDAABCwABAAAABnRyZW5kcwsAAgAAAAZ0cmVuZHMAAA8AAgwAAAABDAABCwABAAAABnRyZW5kcwsAAgAAAAZ0cmVuZHMAAAA="
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "cursor:1",
+              "sortIndex": "1",
+              "content": {
+                "operation": {
+                  "cursor": {
+                    "value": "DefaultBottomCursorValue",
+                    "cursorType": "Bottom"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "terminateTimeline": {
+          "direction": "Bottom"
+        }
+      }
+    ],
+    "responseObjects": {
+      "feedbackActions": {
+        "trend_irrelevant_content_feedback_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "The associated content is not relevant",
+          "confirmation": "Thanks. Refresh this page to update these trends.",
+          "feedbackUrl": "/2/guide/insert_feedback/trend_irrelevant_content_feedback_key.json",
+          "hasUndoAction": false,
+          "confirmationDisplayType": "BottomSheet"
+        },
+        "spotlight_dismiss_feedback_key": {
+          "feedbackType": "Dismiss",
+          "prompt": "Don't want to see this ad",
+          "confirmation": "Thanks. Refresh this page to update these trends.",
+          "hasUndoAction": false,
+          "confirmationDisplayType": "BottomSheet"
+        },
+        "trend_abusive_feedback_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "This trend is abusive or harmful",
+          "confirmation": "Thanks. Refresh this page to update these trends.",
+          "feedbackUrl": "/2/guide/insert_feedback/trend_abusive_feedback_key.json",
+          "hasUndoAction": false,
+          "confirmationDisplayType": "Inline"
+        },
+        "guide_not_interested_feedback_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "Hide",
+          "confirmation": "Thank you, we will show you less of this",
+          "feedbackUrl": "/2/guide/dont_like_this/feedback.json",
+          "hasUndoAction": true,
+          "confirmationDisplayType": "Inline",
+          "icon": "NO"
+        },
+        "guide_see_more_feedback_key": {
+          "feedbackType": "SeeMore",
+          "prompt": "Show more often",
+          "confirmation": "Thank you, we will show you more of this",
+          "feedbackUrl": "/2/guide/show_more/feedback.json",
+          "hasUndoAction": true,
+          "confirmationDisplayType": "BottomSheet"
+        },
+        "trend_spam_feedback_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "This trend is spam",
+          "confirmation": "Thanks. Refresh this page to update these trends.",
+          "feedbackUrl": "/2/guide/insert_feedback/trend_spam_feedback_key.json",
+          "hasUndoAction": false,
+          "confirmationDisplayType": "Inline"
+        },
+        "trend_low_quality_feedback_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "This trend is low quality",
+          "confirmation": "Thanks. Refresh this page to update these trends.",
+          "feedbackUrl": "/2/guide/insert_feedback/trend_low_quality_feedback_key.json",
+          "hasUndoAction": false,
+          "confirmationDisplayType": "Inline"
+        },
+        "guide_see_less_feedback_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "Show less often",
+          "confirmation": "Thank you, we will show you less of this",
+          "feedbackUrl": "/2/guide/dont_like_this/feedback.json",
+          "hasUndoAction": true,
+          "confirmationDisplayType": "Inline"
+        },
+        "trend_not_interested_in_this_feedback_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "Not interested in this",
+          "confirmation": "Thanks. Refresh this page to update these trends.",
+          "feedbackUrl": "/2/guide/insert_feedback/trend_not_interested_in_this_feedback_key.json",
+          "hasUndoAction": false,
+          "confirmationDisplayType": "Inline"
+        },
+        "trend_abusive_or_harmful_feedback_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "This trend is harmful or spammy",
+          "confirmation": "Thanks. Refresh this page to update these trends.",
+          "feedbackUrl": "/2/guide/insert_feedback/trend_abusive_or_harmful_feedback_key.json",
+          "hasUndoAction": false,
+          "confirmationDisplayType": "BottomSheet"
+        },
+        "guide_hide_topic_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "Unfollow topic",
+          "confirmation": "Thank you, we will show you less of this",
+          "feedbackUrl": "/2/guide/feedback/hide_topic.json",
+          "hasUndoAction": true,
+          "confirmationDisplayType": "Inline",
+          "icon": "TOPIC_CLOSE"
+        },
+        "trend_duplicate_feedback_key": {
+          "feedbackType": "SeeFewer",
+          "prompt": "This trend is a duplicate",
+          "confirmation": "Thanks. Refresh this page to update these trends.",
+          "feedbackUrl": "/2/guide/insert_feedback/trend_duplicate_feedback_key.json",
+          "hasUndoAction": false,
+          "confirmationDisplayType": "Inline"
+        }
+      }
+    }
+  }
+}

@@ -1,17 +1,13 @@
+/* App.css */
 .app {
   display: flex;
 }
 
 .content {
-  margin-left: 480px;
+  margin-left: 500px;
+  margin-right: 300px;
   padding: 20px;
   flex-grow: 1;
-}
-/* index.css or App.css */
-/* index.css veya App.css */
-
-.App {
-  text-align: center;
 }
 
 .tweet-container {
@@ -37,11 +33,13 @@
   align-items: center;
   margin-bottom: 10px;
 }
+
 .user-info {
   display: flex;
   flex-direction: row;
   align-items: center;
 }
+
 .user-details img {
   border-radius: 50%;
   margin-right: 10px;
@@ -60,17 +58,119 @@
   color: #555;
 }
 
-.tweet p {
-}
-
 .tweet img {
   max-width: 100%;
-  border-radius: 8px;
   margin-top: 10px;
 }
+
 .padding55px {
   padding-left: 55px;
 }
+
 .blackbg {
   background-color: black;
+}
+
+.sidebar {
+  width: 500px;
+  height: 100%;
+  position: fixed;
+  border-right: 0.5px solid grey;
+  color: white;
+  font-size: x-large;
+  left: 0;
+}
+
+.sidebar nav ul {
+  list-style-type: none;
+}
+
+.sidebar nav ul li {
+  padding: 20px 200px;
+}
+
+.sidebar nav ul li a {
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.sidebar nav ul li a.active {
+  font-weight: bold;
+}
+
+.fifteenPxPadding {
+  padding-right: 15px;
+}
+
+.tenPxPadding {
+  padding-right: 10px;
+}
+
+.right-sidebar {
+  width: 500px;
+  height: 100%;
+  position: fixed;
+  border-left: 0.5px solid grey;
+  font-size: large;
+  margin-left: 1150px;
+  padding: 20px;
+}
+
+.premium {
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.premium h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.premium p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.subscribe-button {
+  background-color: #1da1f2;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.trends h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.trends ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.trends li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.trends a {
+  color: white;
+  text-decoration: none;
+}
+
+.who-to-follow h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.who-to-follow {
+  background-color: #2d2d2d;
+  padding: 15px;
+  border-radius: 10px;
 }

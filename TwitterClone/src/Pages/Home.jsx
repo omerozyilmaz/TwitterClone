@@ -1,19 +1,17 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { fetchTweets } from "../tweets/actions";
+import { fetchTweets } from "../redux/action/TweetAction";
 import TweetContainer from "../components/TweetContainer";
 
-const Home = () => {
+export default function Home() {
   const dispatch = useDispatch();
   const tweets = useSelector((state) => state.tweets.tweets);
-  const tweetStatus = useSelector((state) => state.tweets.status);
+  const loading = useSelector((state) => state.tweets.loading);
   const error = useSelector((state) => state.tweets.error);
 
   useEffect(() => {
-    if (tweetStatus === "idle") {
-      dispatch(fetchTweets());
-    }
-  }, [tweetStatus, dispatch]);
+    dispatch(fetchTweets());
+  }, [dispatch]);
 
   useEffect(() => {
     console.log(tweets);
@@ -21,20 +19,20 @@ const Home = () => {
 
   let content;
 
-  if (tweetStatus === "loading") {
+  if (loading) {
     content = <div>Loading...</div>;
-  } else if (tweetStatus === "succeeded") {
-    content = <TweetContainer tweets={tweets} />;
-  } else if (tweetStatus === "failed") {
+  } else if (error) {
     content = <div>{error}</div>;
+  } else {
+    content = <TweetContainer tweets={tweets} />;
   }
 
   return (
-    <div>
-      <h1>Home</h1>
-      {content}
+    <div className="home-container">
+      <div className="content-container">
+        <h1>Home</h1>
+        {content}
+      </div>
     </div>
   );
-};
-
-export default Home;
+}

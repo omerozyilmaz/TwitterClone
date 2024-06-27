@@ -3,7 +3,6 @@ import {
   FETCH_TWEETS_REQUEST,
   FETCH_TWEETS_SUCCESS,
   FETCH_TWEETS_FAILURE,
-  SELECT_TWEET,
 } from "../types";
 
 export const fetchTweetsRequest = () => ({
@@ -20,15 +19,6 @@ export const fetchTweetsFailure = (error) => ({
   payload: error,
 });
 
-export const selectTweet = (tweetId) => (dispatch, getState) => {
-  const state = getState();
-  const tweet = state.tweets.tweets.find((tweet) => tweet.entryId === tweetId);
-  dispatch({
-    type: SELECT_TWEET,
-    payload: tweet,
-  });
-};
-
 export const fetchTweets = () => {
   return async (dispatch) => {
     dispatch(fetchTweetsRequest());
@@ -42,7 +32,7 @@ export const fetchTweets = () => {
         },
         headers: {
           "x-rapidapi-key":
-            "f9ce061a33msh30fade5f94282e5p1a95c1jsn04935aa0af20",
+            "e089550cd5msh53ba67e093382eap198c21jsnc5fd9980a2e3",
           "x-rapidapi-host": "twitter135.p.rapidapi.com",
         },
       };

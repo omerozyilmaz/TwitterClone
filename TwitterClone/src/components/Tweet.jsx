@@ -31,7 +31,7 @@ export default function Tweet({ tweet }) {
   return (
     <div
       className="tweet"
-      onClick={handleTweetClick}
+      //onClick={handleTweetClick}
       style={{ cursor: "pointer" }}
     >
       <UserDetails user={user} timeAgo={timeAgo} />
