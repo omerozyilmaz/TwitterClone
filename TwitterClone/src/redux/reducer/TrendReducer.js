@@ -2,7 +2,7 @@ import {
   SEARCH_TRENDS_REQUEST,
   SEARCH_TRENDS_SUCCESS,
   SEARCH_TRENDS_FAILURE,
-} from "../types";
+} from "../action/TrendAction";
 
 const initialState = {
   loading: false,
@@ -21,7 +21,7 @@ const trendReducer = (state = initialState, action) => {
       return {
         ...state,
         loading: false,
-        trends: action.payload || [],
+        trends: action.payload,
         error: "",
       };
     case SEARCH_TRENDS_FAILURE:

@@ -9,9 +9,6 @@ export default function Notifications() {
         <h1>Notifications</h1>
         <p>Here are your notifications.</p>
       </div>
-      <div>
-        <button onClick={() => navigate("/")}>Go to Home</button>
-      </div>
     </div>
   );
 }

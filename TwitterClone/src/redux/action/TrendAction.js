@@ -1,9 +1,8 @@
 import axios from "axios";
-import {
-  SEARCH_TRENDS_REQUEST,
-  SEARCH_TRENDS_SUCCESS,
-  SEARCH_TRENDS_FAILURE,
-} from "../types";
+
+export const SEARCH_TRENDS_REQUEST = "SEARCH_TRENDS_REQUEST";
+export const SEARCH_TRENDS_SUCCESS = "SEARCH_TRENDS_SUCCESS";
+export const SEARCH_TRENDS_FAILURE = "SEARCH_TRENDS_FAILURE";
 
 export const searchTrendsRequest = () => ({
   type: SEARCH_TRENDS_REQUEST,
@@ -32,7 +31,7 @@ export const searchTrendsTweet = () => {
         },
         headers: {
           "x-rapidapi-key":
-            "e089550cd5msh53ba67e093382eap198c21jsnc5fd9980a2e3",
+            "869ec4e5f0msh57b1906e4c875fcp15ce11jsn3387d8f396ae",
           "x-rapidapi-host": "twitter135.p.rapidapi.com",
         },
       };

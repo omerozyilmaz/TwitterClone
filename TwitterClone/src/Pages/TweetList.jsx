@@ -2,7 +2,7 @@ import React from "react";
 import { useSelector } from "react-redux";
 import Tweet from "./Tweet";
 
-const TweetList = () => {
+export default function TweetList() {
   const { tweets, loading, error } = useSelector((state) => state);
 
   if (loading) return <div>Loading...</div>;
@@ -20,6 +20,4 @@ const TweetList = () => {
       </ul>
     </div>
   );
-};
-
-export default TweetList;
+}

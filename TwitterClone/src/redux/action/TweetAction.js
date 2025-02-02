@@ -1,9 +1,7 @@
 import axios from "axios";
-import {
-  FETCH_TWEETS_REQUEST,
-  FETCH_TWEETS_SUCCESS,
-  FETCH_TWEETS_FAILURE,
-} from "../types";
+export const FETCH_TWEETS_REQUEST = "FETCH_TWEETS_REQUEST";
+export const FETCH_TWEETS_SUCCESS = "FETCH_TWEETS_SUCCESS";
+export const FETCH_TWEETS_FAILURE = "FETCH_TWEETS_FAILURE";
 
 export const fetchTweetsRequest = () => ({
   type: FETCH_TWEETS_REQUEST,
@@ -32,7 +30,7 @@ export const fetchTweets = () => {
         },
         headers: {
           "x-rapidapi-key":
-            "e089550cd5msh53ba67e093382eap198c21jsnc5fd9980a2e3",
+            "869ec4e5f0msh57b1906e4c875fcp15ce11jsn3387d8f396ae",
           "x-rapidapi-host": "twitter135.p.rapidapi.com",
         },
       };

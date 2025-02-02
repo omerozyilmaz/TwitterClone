@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { searchTrendsTweet } from "../redux/action/TrendAction";
 
-const RightSidebar = () => {
+export default function RightSidebar() {
   const dispatch = useDispatch();
   const trendsData = useSelector((state) => state.trends);
 
@@ -52,6 +52,4 @@ const RightSidebar = () => {
       </div>
     </div>
   );
-};
-
-export default RightSidebar;
+}

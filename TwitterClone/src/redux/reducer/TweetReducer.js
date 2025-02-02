@@ -2,7 +2,7 @@ import {
   FETCH_TWEETS_REQUEST,
   FETCH_TWEETS_SUCCESS,
   FETCH_TWEETS_FAILURE,
-} from "../types";
+} from "../action/TweetAction";
 
 const initialState = {
   loading: false,

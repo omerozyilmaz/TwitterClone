@@ -1,6 +1,6 @@
 import React from "react";
 
-const UserDetails = (props) => {
+export default function UserDetails(props) {
   const { user, timeAgo } = props;
   return (
     <div className="user-details">
@@ -17,6 +17,4 @@ const UserDetails = (props) => {
       </div>
     </div>
   );
-};
-
-export default UserDetails;
+}
